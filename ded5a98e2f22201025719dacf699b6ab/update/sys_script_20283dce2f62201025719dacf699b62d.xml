@@ -8,7 +8,7 @@
         <action_update>false</action_update>
         <active>true</active>
         <add_message>false</add_message>
-        <advanced>false</advanced>
+        <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
         <collection>x_155012_your_wish_wish_item</collection>
@@ -31,7 +31,7 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-	// Add your code here
+	// hello world
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -40,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>20283dce2f62201025719dacf699b62d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>your wish list</sys_name>
         <sys_overrides/>
         <sys_package display_value="Your Wish List" source="x_155012_your_wish">ded5a98e2f22201025719dacf699b6ab</sys_package>
@@ -48,7 +48,7 @@
         <sys_scope display_value="Your Wish List">ded5a98e2f22201025719dacf699b6ab</sys_scope>
         <sys_update_name>sys_script_20283dce2f62201025719dacf699b62d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-02-26 23:51:03</sys_updated_on>
+        <sys_updated_on>2021-02-27 03:09:16</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
